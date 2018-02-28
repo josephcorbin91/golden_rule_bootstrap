@@ -217,6 +217,11 @@ section.download .badges .badge-link:last-child {
   margin-bottom: 0;
 }
 
+
+
+.banner {
+
+}
 section.download .badges .badge-link img {
   height: 60px;
 }
